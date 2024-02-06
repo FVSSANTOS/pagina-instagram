@@ -2,7 +2,7 @@
 ------------------------------
 Este projeto foi realizado durante o BootCamp do Santander
 
-##Tecnologias utilizadas:
+## Tecnologias utilizadas:
 * Html
 * CSS
 
